@@ -1,1 +1,2 @@
-# sorting_project
+sorting_project
+This C++ project demonstrates the implementation and comparison of iterative and recursive sorting and searching algorithms. It allows users to select a sorting algorithm to sort an array of random integers and then search for an element using various search techniques. The program showcases fundamental data structures and algorithms concepts, making it a valuable educational tool for understanding algorithm efficiency and implementation.
